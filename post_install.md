@@ -9,6 +9,7 @@ cd
 
 # Replace items in the dots with your appropriate variables
  - Change $HOME, $USERNAME, $ADDRESS in .zshrc
+ - Change $HOME in ./dots/scripts/youtube-dl.py
  - Change $HOME in dots/.config/flameshot/flameshot.ini
  - Change Resolution in dots/.config/i3/config and /etc/lightdm/lightdm.conf
  - Change or Remove mouse entry in dots/etc/lightdm/resolution.sh

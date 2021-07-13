@@ -1,0 +1,34 @@
+Dell Inspiron 3442 to XF86 Keysym:
+Sleep:			XF86Standby
+Battery/Power Mode:	XF86LaunchB
+Mute:			XF86AudioMute
+Volume Down:		XF86AudioLowerVolume
+Volume Up:		XF86AudioRaiseVolume
+Play / Pause:		XF86AudioPause
+Stop:			XF86AudioStop
+Next Track:		XF86AudioNext
+Previous Track:		XF86AudioPrev
+
+
+Office Keyboard XF86 Keysym:
+Home:			XF86HomePage
+E-mail:			XF86Mail
+Back:			XF86Back	
+Forward:		XF86Forward
+Stop:			Cancel or Keycode: 136
+Refresh:		XF86Reload
+Search:			XF86Search 
+Favorites:		XF86Favorites
+Play/Pause:		XF86AudioPause
+Stop:			XF86AudioStop
+Previous:		XF86AudioPrev
+Next:			XF86AudioNext
+-Volume:		XF86AudioLowerVolume
++Volume:		XF86AudioRaiseVolume
+Mute:			XF86AudioMute
+Media:			XF86Tools
+MyComputer:		XF86Explorer
+Calculator:		XF86Calculator
+Sleep:			XF86Sleep
+Power:			XF86PowerOff
+
