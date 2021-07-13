@@ -1,7 +1,7 @@
 # Dotfiles
 These are my personal dotfiles, essentially a mix of multiple other dotfiles, with my own spin on them.
 
-The theming is based on Nord, with Firefox and Thunderbird with arc themes to match, transparency for Zathura and mostly other convenient factors.
+The theming is based on Nord, with Firefox and Thunderbird with arc themes to match, transparency for Zathura and other convenient things.
 
 
 I daily drive linux, for studying and development mostly. So this isn't particularly ricy but rather useful.
@@ -19,3 +19,6 @@ My rofi powermenu is a modified version of [adi1090x's collection](https://githu
 
 ## Rofi launcher
 My rofi launcher is taken straight from [HashtagSaurav's dotfile repo](https://github.com/hashtagsaurav/dotfiles)
+
+## rEFInd theme
+The refind theme I use is based on [next-theme](https://www.deviantart.com/sdbinwiiexe/art/rEFInd-Next-Theme-407754566)
