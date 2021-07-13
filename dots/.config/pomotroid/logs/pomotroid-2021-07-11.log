@@ -1,0 +1,8 @@
+{"message":"Preferences loaded from /home/kenielf/.config/pomotroid/user-preferences.json","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:58.740Z"}
+{"message":"app ready","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:58.917Z"}
+{"message":"Registering shortcut for call-timer-toggle: Control+F1","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:59.122Z"}
+{"message":"Registering shortcut for call-timer-reset: Control+F2","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:59.125Z"}
+{"message":"Registering shortcut for call-timer-skip: Control+F3","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:59.130Z"}
+{"message":"creating directory: /home/kenielf/.config/pomotroid/themes","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:59.656Z"}
+{"message":"Preferences loaded from /home/kenielf/.config/pomotroid/user-preferences.json","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:42:59.706Z"}
+{"message":"quitting app...","level":"info","hostname":"insparch","timestamp":"2021-07-11T19:43:02.437Z"}

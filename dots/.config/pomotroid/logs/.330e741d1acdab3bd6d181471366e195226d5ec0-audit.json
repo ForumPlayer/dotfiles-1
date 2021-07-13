@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/kenielf/.config/pomotroid/logs/.330e741d1acdab3bd6d181471366e195226d5ec0-audit.json",
+    "files": [
+        {
+            "date": 1626032578736,
+            "name": "/home/kenielf/.config/pomotroid/logs/pomotroid-2021-07-11.log",
+            "hash": "dd4fcd4964774b857e6dca505e22d26b"
+        },
+        {
+            "date": 1626084111356,
+            "name": "/home/kenielf/.config/pomotroid/logs/pomotroid-2021-07-12.log",
+            "hash": "0aa72ca7f55e6c48fd088e2f8eeda204"
+        }
+    ]
+}

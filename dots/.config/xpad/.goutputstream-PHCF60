@@ -1,0 +1,12 @@
+width 200
+height 200
+x 0
+y 0
+follow_font 1
+follow_color 1
+sticky 0
+hidden 1
+back rgb(46,52,64)
+text rgb(236,239,244)
+fontname FiraCode Nerd Font Mono Medium 8
+content content-XEDF60

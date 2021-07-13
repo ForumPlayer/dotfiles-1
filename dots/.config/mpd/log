@@ -1,0 +1,5 @@
+Jul 11 01:24 : exception: Failed to open '/home/kenielf/.config/mpd/state': No such file or directory
+Jul 11 01:24 : update: added /Flamingo (English Cover)【Will Stetson】「米津 玄師」.webm
+Jul 11 01:24 : update: added /【Ado】踊.webm
+Jul 11 01:25 : exception: Failed to open '/home/kenielf/.config/mpd/state': No such file or directory
+Jul 11 01:26 : exception: Failed to commit /home/kenielf/.config/mpd/state: File exists
